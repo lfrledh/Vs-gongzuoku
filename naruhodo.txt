@@ -1,0 +1,16 @@
+可以输入中文啦！！！（虽然其实下面的那个“前进”才是真正第一个输入的中文！！！）
+前进
+motorLeft.setSpeed(150);
+motorLeft.setDirection(CLOCKWISE);
+motorRight.setSpeed(150);
+motorRight.setDirection(CLOCKWISE);
+右转
+motorLeft.setSpeed(150);
+motorLeft.setDirection(COUNTERCLOCKWISE);
+motorRight.setSpeed(150);
+motorRight.setDirection(CLOCKWISE);
+左转
+motorLeft.setSpeed(150);
+motorLeft.setDirection(CLOCKWISE);
+motorRight.setSpeed(150);
+motorRight.setDirection(COUNTERCLOCKWISE);
